@@ -29,8 +29,8 @@ defmodule ExrmTest.Mixfile do
   defp deps do
     [
       {:exmoji, "~> 0.2"},
-      {:exrm, "~> 0.19"},
-      {:conform, "~> 0.17"},
+      {:exrm, "~> 1.0.0-rc4"},
+      {:conform, "~> 1.0.0-rc2"},
     ]
   end
 end
